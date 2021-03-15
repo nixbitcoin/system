@@ -24,9 +24,9 @@ Run a fully-featured, security hardened, and privacy preserving Bitcoin node. In
 
 Control your own data and make it available from anywhere. Currently a guide based on OpenBSD. Will soon be an easily deployable NixOS project using NixOS 20.09, Nextcloud 21, hardened Nginx, Postgresql, and Krops with password-store protected secrets files.
 
-### QubesOS + i3 laptop
+### NixOS laptop
 
-Use the fully-compartmentalized QubesOS with a great window manager. All in dark mode. Graphical guide coming soon.
+Security-hardened laptop with FDE, bubblewrap, apparmor, doas, and Wayland. Configuration files coming soon.
 
 ### Darknet Box
 
