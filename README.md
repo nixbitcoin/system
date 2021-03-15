@@ -28,18 +28,18 @@ Control your own data and make it available from anywhere. Currently a guide bas
 
 Security-hardened laptop with FDE, bubblewrap, apparmor, doas, and Wayland. Configuration files coming soon.
 
-### Darknet Box
+### [Darknet Box](https://github.com/nixbitcoin/nix-darknet)
 
-All three projects will be merged into one darknet box using NixOS.
+Self-host darknet services on a home SBC.
 
-#### [i2p relay](https://satmeir.com/posts/openbsd-i2pd)
+#### i2p router
 
-Access the most underrated darknet out there. Chat on i2prc (i2p hidden irc), browse i2p sites, and use i2p mail all from your own 24/7 running i2p relay. Currently a guide based on OpenBSD. Will soon be an easily deployable NixOS project using NixOS 20.03, i2pd 2.32.1, and Krops with password-store protected secrets files.
+Access the most underrated darknet out there. Chat on i2prc (i2p hidden irc), browse i2p sites, and use i2p mail all from your own 24/7 running i2p router.
 
-#### Tor bridge
+#### Tor bridge relay
 
-Provide secret uplinks to the Tor network for people with censored internet. Become a Tor network hero. Will soon be an easily deployable NixOS project using NixOS 20.03, Tor 0.4.3.5.
+Provide secret uplinks to the Tor network for people with censored internet. Become a Tor network hero.
 
-#### ZNC+Tor bouncer
+#### ZNC+i2p/Tor bouncer
 
-Access the greatest chat rooms on earth with a ZNC bouncer routed over Tor. Easily deployable NixOS project using NixOS 20.03, ZNC 1.8.1, Tor 0.4.3.5, and Krops with password-store protected secrets files. Freenode instructions included.
+Access the greatest chat rooms on earth with a ZNC bouncer routed over i2p/Tor.
