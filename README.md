@@ -22,7 +22,7 @@ Run a fully-featured, security hardened, and privacy preserving Bitcoin node. In
 
 ### [Cloud server](https://github.com/nixbitcoin/OpenBSD-Nextcloud)
 
-Control your own data and make it available from anywhere. Currently a guide based on OpenBSD. Will soon be an easily deployable NixOS project using NixOS 20.03, Nextcloud 19, hardened Nginx, Postgresql, and Krops with password-store protected secrets files. 
+Control your own data and make it available from anywhere. Currently a guide based on OpenBSD. Will soon be an easily deployable NixOS project using NixOS 20.09, Nextcloud 21, hardened Nginx, Postgresql, and Krops with password-store protected secrets files.
 
 ### QubesOS + i3 laptop
 
